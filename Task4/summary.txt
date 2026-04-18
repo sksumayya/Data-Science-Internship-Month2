@@ -1,0 +1,6 @@
+Task 4 Summary:
+- Cleaned Netflix dataset
+- Handled missing values
+- Created new features like release_decade and is_movie
+- Visualized trends using charts
+- Found insights about content types and genres

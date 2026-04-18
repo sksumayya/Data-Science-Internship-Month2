@@ -1,0 +1,5 @@
+Task 3 Summary:
+- Cleaned dataset and handled missing values
+- Created new features like AvgMonthlySpend and TenureGroup
+- Converted categorical data into numeric
+- Visualized churn patterns using graphs

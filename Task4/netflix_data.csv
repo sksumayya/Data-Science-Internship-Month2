@@ -1,0 +1,6 @@
+type,title,director,cast,country,date_added,release_year,rating,listed_in
+Movie,Film A,Dir1,Actor1,India,January 1 2020,2020,PG,Drama
+TV Show,Show B,Dir2,Actor2,USA,March 5 2019,2019,TV-MA,Comedy
+Movie,Film C,,Actor3,India,July 10 2021,2021,R,Action
+Movie,Film D,Dir4,,UK,June 15 2018,2018,PG-13,Drama
+TV Show,Show E,Dir5,Actor5,USA,August 20 2020,2020,TV-14,Comedy
